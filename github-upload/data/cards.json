@@ -1,0 +1,72 @@
+{
+  "cards": [],
+  "folders": [
+    {
+      "id": "uncategorized",
+      "name": "未分类",
+      "icon": "fas fa-inbox",
+      "parent": null,
+      "children": [],
+      "order": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ai-chat",
+      "name": "AI对话",
+      "icon": "fas fa-comments",
+      "parent": null,
+      "children": [],
+      "order": 1,
+      "isCustom": false
+    },
+    {
+      "id": "ai-art",
+      "name": "AI绘画",
+      "icon": "fas fa-palette",
+      "parent": null,
+      "children": [],
+      "order": 2,
+      "isCustom": false
+    },
+    {
+      "id": "ai-video",
+      "name": "AI视频",
+      "icon": "fas fa-video",
+      "parent": null,
+      "children": [],
+      "order": 3,
+      "isCustom": false
+    },
+    {
+      "id": "ai-coding",
+      "name": "AI编程",
+      "icon": "fas fa-code",
+      "parent": null,
+      "children": [],
+      "order": 4,
+      "isCustom": false
+    },
+    {
+      "id": "ai-agent",
+      "name": "智能体",
+      "icon": "fas fa-robot",
+      "parent": null,
+      "children": [],
+      "order": 5,
+      "isCustom": false
+    }
+  ],
+  "customTags": {
+    "models": [],
+    "platforms": []
+  },
+  "settings": {
+    "imagePath": "D:\\【Qoder\\PromptCard2\\image",
+    "dataDirectory": "D:\\【Qoder\\PromptCard2\\data",
+    "defaultCategory": "ai-chat",
+    "screenshotPath": "D:\\【Qoder\\PromptCard2\\image",
+    "downloadPath": "D:\\【Qoder\\PromptCard2\\image"
+  },
+  "version": "1.0.0",
+  "lastModified": "2025-09-07T13:01:21.588Z"
+}
